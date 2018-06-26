@@ -98,38 +98,50 @@
   },
   "Mappings": {
     "AWSRegionToAMI": {
-      "us-east-1": {
-        "AMIID": "ami-275ffe31"
+      "ap-south-1": {
+        "AMIID": "ami-c7072aa8"
       },
-      "us-east-2": {
-        "AMIID": "ami-62745007"
-      },
-      "us-west-1": {
-        "AMIID": "ami-689bc208"
-      },
-      "us-west-2": {
-        "AMIID": "ami-62d35c02"
-      },
-      "eu-west-1": {
-        "AMIID": "ami-95f8d2f3"
+      "eu-west-3": {
+        "AMIID": "ami-ca75c4b7"
       },
       "eu-west-2": {
-        "AMIID": "ami-bf9481db"
+        "AMIID": "ami-3622cf51"
       },
-      "eu-central-1": {
-        "AMIID": "ami-085e8a67"
+      "eu-west-1": {
+        "AMIID": "ami-c91624b0"
+      },
+      "ap-northeast-2": {
+        "AMIID": "ami-7c69c112"
       },
       "ap-northeast-1": {
-        "AMIID": "ami-f63f6f91"
+        "AMIID": "ami-f3f8098c"
       },
-      "ap-southeast-1": {
-        "AMIID": "ami-b4ae1dd7"
-      },
-      "ap-southeast-2": {
-        "AMIID": "ami-fbe9eb98"
+      "sa-east-1": {
+        "AMIID": "ami-a1e2becd"
       },
       "ca-central-1": {
-        "AMIID": "ami-ee58e58a"
+        "AMIID": "ami-da6cecbe"
+      },
+      "ap-southeast-1": {
+        "AMIID": "ami-b75a6acb"
+      },
+      "ap-southeast-2": {
+        "AMIID": "ami-bc04d5de"
+      },
+      "eu-central-1": {
+        "AMIID": "ami-10e6c8fb"
+      },
+      "us-east-1": {
+        "AMIID": "ami-5253c32d"
+      },
+      "us-east-2": {
+        "AMIID": "ami-956e52f0"
+      },
+      "us-west-1": {
+        "AMIID": "ami-6b81980b"
+      },
+      "us-west-2": {
+        "AMIID": "ami-d2f489aa"
       }
     }
   },
